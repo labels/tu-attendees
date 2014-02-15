@@ -55,6 +55,24 @@
         "location": "Tulsa, OK", 
         "email": "abigail-labounty@utulsa.edu"
       }
+    },
+        {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.9436, 
+          36.1529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "", 
+        "name": "Leland Abels", 
+        "twitter": "",
+        "location": "Tulsa, OK", 
+        "email": "leland-abels@utulsa.edu"
+      }
     }
+    
   ]
 }
